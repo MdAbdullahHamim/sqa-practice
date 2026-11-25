@@ -1,3 +1,4 @@
 Hello! My name is Hamim.
 I am learning Software Quality Assurance (SQA).
-This is my SQA practice repository.
+I am practicing GitHub.
+I want to become a QA Engineer.
