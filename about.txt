@@ -1,3 +1,3 @@
-Welcome to my SQA Practice repository.
-This repository is for learning Software Quality Assurance,
-JavaScript programming, and software testing.
+Hello! My name is Hamim.
+I am learning Software Quality Assurance (SQA).
+This is my SQA practice repository.
