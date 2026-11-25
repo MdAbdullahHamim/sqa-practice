@@ -1,0 +1,3 @@
+Hello! My name is Hamim.
+I am learning Software Quality Assurance (SQA).
+This is my SQA practice repository.
